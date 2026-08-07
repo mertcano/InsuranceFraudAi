@@ -1,5 +1,7 @@
 # InsuranceFraudAi
 
+https://insurancefraudai.vercel.app/
+
 **A cost-sensitive decision tree that flags insurance claims worth investigating — before the payout leaves.**
 
 Insurance fraud drains billions every year, and it tends to follow *rule-like* patterns: a brand-new policy, a late-night incident, a suspiciously large claim, no witnesses. InsuranceFraudAi learns those rule chains with a **CART decision tree** and raises a **Flag for Review** on the riskiest claims — always with a transparent, auditable reason for every call.
